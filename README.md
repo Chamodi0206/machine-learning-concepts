@@ -1,4 +1,4 @@
-Machine Learning Concepts
+MACHINE LEARNING CONCEPTS
 
 This repository contains various practical implementations of core Machine Learning concepts. Each notebook covers a different ML topic, including supervised and unsupervised learning techniques.
 
